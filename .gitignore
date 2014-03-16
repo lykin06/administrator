@@ -1,0 +1,47 @@
+# Files #
+*.class
+*.orig
+*.iml
+*~
+*.data
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+*.tgz
+*.tar.gz
+
+# IDE #
+atlassian-ide-plugin.xml
+.idea
+.classpath
+.project
+.settings
+.svn
+.git
+
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Project #
+bin/
+target/
+resources/
+Data/
+archives projets/
