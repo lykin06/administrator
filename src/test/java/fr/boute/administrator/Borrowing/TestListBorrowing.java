@@ -1,12 +1,8 @@
-package Borrowing;
+package fr.boute.administrator.Borrowing;
 
-import Gestion.ListBorrowing;
-import Gestion.ListReservations;
-import Material.Camera;
-import Material.Headphone;
-import Material.Laptop;
-import Material.Phone;
-import Material.Tablet;
+import fr.boute.administrator.Gestion.ListBorrowing;
+import fr.boute.administrator.Gestion.ListReservations;
+import fr.boute.administrator.Material.*;
 
 public class TestListBorrowing {
 
@@ -31,7 +27,7 @@ public class TestListBorrowing {
                 + lb.getNombreReserveOf(phone));
         System.out.println("Nombre de reservation de tablet: "
                 + lb.getNombreReserveOf(tab));
-        
+
         System.out.println("Le plus emprunte: " + lb.leplusEmprunte());
     }
 
