@@ -1,7 +1,7 @@
-package fr.boute.administrator.Gestion;
+package fr.boute.administrator.gestion;
 
-import fr.boute.administrator.Personnel.Administrator;
-import fr.boute.administrator.Personnel.Personnel;
+import fr.boute.administrator.personnel.Administrator;
+import fr.boute.administrator.personnel.Personnel;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

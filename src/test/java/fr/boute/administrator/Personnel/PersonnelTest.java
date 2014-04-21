@@ -1,4 +1,4 @@
-package fr.boute.administrator.Personnel;
+package fr.boute.administrator.personnel;
 
 import org.junit.After;
 import org.junit.Before;

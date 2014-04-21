@@ -1,4 +1,4 @@
-package fr.boute.administrator.Material;
+package fr.boute.administrator.material;
 
 import org.junit.After;
 import org.junit.Before;

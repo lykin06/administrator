@@ -1,8 +1,8 @@
-package fr.boute.administrator.Gestion;
+package fr.boute.administrator.gestion;
 
-import fr.boute.administrator.Material.Material;
-import fr.boute.administrator.Personnel.Borrower;
-import fr.boute.administrator.Personnel.Student;
+import fr.boute.administrator.material.Material;
+import fr.boute.administrator.personnel.Borrower;
+import fr.boute.administrator.personnel.Student;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

@@ -1,8 +1,8 @@
-package fr.boute.administrator.Borrowing;
+package fr.boute.administrator.borrowing;
 
-import fr.boute.administrator.Gestion.ListBorrowing;
-import fr.boute.administrator.Gestion.ListReservations;
-import fr.boute.administrator.Material.*;
+import fr.boute.administrator.gestion.ListBorrowing;
+import fr.boute.administrator.gestion.ListReservations;
+import fr.boute.administrator.material.*;
 
 public class TestListBorrowing {
 
